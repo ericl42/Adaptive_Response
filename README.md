@@ -1,2 +1,2 @@
-# Adaptive_Response
+# Adaptive Response
 Splunk Adaptive Response code.
